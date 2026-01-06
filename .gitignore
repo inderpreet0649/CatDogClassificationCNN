@@ -1,0 +1,10 @@
+dataset/
+data/
+train/
+test/
+*.h5
+*.keras
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
