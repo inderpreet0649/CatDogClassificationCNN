@@ -52,24 +52,24 @@ This ensures optimal model performance without over-training.
 ---
 
 ## 🗂️ Project Structure
-CAT_DOG_CLASSIFICATION/
-├── dataset/
-│ ├── train/
-│ │ ├── cats/
-│ │ └── dogs/
-│ └── val/
-│ ├── cats/
-│ └── dogs/
-├── model/
-│ └── cat_dog_best.keras
-├── plots/
-│ └── training_plot.png
-├── predictions/
-│ └── test_images
-├── train_model.py
-├── predict.py
-├── requirements.txt
-└── README.md
+CAT_DOG_CLASSIFICATION/    
+├── dataset/   
+│ ├── train/    
+│ │ ├── cats/    
+│ │ └── dogs/    
+│ └── val/    
+│ ├── cats/    
+│ └── dogs/    
+├── model/   
+│ └── cat_dog_best.keras   
+├── plots/    
+│ └── training_plot.png   
+├── predictions/   
+│ └── test_images   
+├── train_model.py   
+├── predict.py   
+├── requirements.txt   
+└── README.md   
 
 ---
 
@@ -131,7 +131,7 @@ Saves prediction results in the predictions/ directory
 Aspiring Data Scientist | Machine Learning Enthusiast     
 
 📧 Email: inderpreetkaur0649@gmail.com    
-🔗 LinkedIn: https://www.linkedin.com/in/inderpreet-kaur-613b1437b/     
+🔗 LinkedIn:[ https://www.linkedin.com/in/inderpreet-kaur-613b1437b/](https://www.linkedin.com/in/inderpreet-kaur-613b1437b/)     
 
 Passionate about building practical machine learning projects using deep learning and transfer learning techniques.    
 
